@@ -1,0 +1,115 @@
+@font-face {
+    font-family: 'Tandy';
+    src:  url('/Px437_TandyOld_TV.ttf') format('truetype');
+}
+
+* {
+    box-sizing: border-box;
+    -webkit-font-smoothing: none;
+    font-family: 'Tandy', Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: #c0c0c0;
+    padding: 32px;
+    text-align: center;
+    image-rendering: pixelated;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+p {
+    margin-bottom: 2em;
+}
+
+.list {
+    align-items: center;
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 64px 0;
+}
+
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 64px 0;
+    line-height: 1.25;
+}
+
+.box {
+    background: silver;
+    box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px #fff, inset -2px -2px grey, inset 2px 2px #dfdfdf;
+    display: flex;
+    flex-direction: column;
+    padding: 12px 24px;
+    min-height: 23px;
+    text-align: left;
+    text-decoration: none;
+    width: 100%;
+}
+
+.box:active {
+    box-shadow: inset -1px -1px #fff, inset 1px 1px #0a0a0a, inset -2px -2px #dfdfdf, inset 2px 2px grey;
+    padding: 18px 22px 0 6px 16px;
+}
+
+.box:focus {
+    outline: 1px dotted #000;
+    outline-offset: -6px;
+}
+
+.box .name {
+    color: teal;
+    display: block;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+.box .because {
+    display: block;
+    font-size: 11px;
+    line-height: 1.5;
+    color: #222;
+}
+
+.github {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#hit-counter {
+    background: black;
+    color: red;
+    font-family: Orbitron, sans-serif;
+    font-size: 18px;
+    display: inline-block;
+    padding: 2px 20px 3px;
+    letter-spacing: 5px;
+    text-decoration: none;
+    text-shadow: 0 0 10px red;
+    margin-top: 32px;
+}
+
+#hit-counter:hover {
+    color: greenyellow;
+    text-shadow: 0 0 10px greenyellow;
+}
+
+::-webkit-scrollbar {
+    width: 16px;
+}
+
+::-webkit-scrollbar-corner {
+    background: #dfdfdf;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #dfdfdf;
+    box-shadow: inset -1px -1px #0a0a0a, inset 1px 1px #fff, inset -2px -2px grey, inset 2px 2px #dfdfdf;
+}
+
+::-webkit-scrollbar-track {
+    background-image: url(data:image/svg+xml;charset=utf-8,%3Csvg width='2' height='2' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M1 0H0v1h1v1h1V1H1V0z' fill='silver'/%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M2 0H1v1H0v1h1V1h1V0z' fill='%23fff'/%3E%3C/svg%3E);
+}
