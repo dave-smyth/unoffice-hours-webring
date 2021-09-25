@@ -119,6 +119,19 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/social.png" : {
+      "ft" : 32768,
+      "iS" : 5474,
+      "oA" : 0,
+      "oAP" : "\/social.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/style.css" : {
       "aP" : 1,
       "bl" : 0,
