@@ -3,7 +3,7 @@ A webring for people offering Unoffice Hours.
 
 ## How to submit your site
 
-**Add the webring links to your site first**, then fork this repo, add your site’s name and URL to the [sites.js](https://github.com/websmyth/blob/main/sites.js) file, and send me a pull request. 
+**Add the webring links to your site first**, then fork this repo, add your name and Unoffice Hours URL to the [sites.js](https://github.com/websmyth/unoffice-hours-webring/blob/main/sites.js) file, and send me a pull request. 
 
 If you’re unfamiliar with Github, [send me an email](mailto:dave@websmyth.co.uk) and I’ll get you set up.
 
