@@ -41,16 +41,6 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/github.gif" : {
-      "ft" : 4194304,
-      "iS" : 773,
-      "oA" : 0,
-      "oAP" : "\/github.gif",
-      "oF" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "rq" : 75
-    },
     "\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -99,14 +89,6 @@
       "oAP" : "\/prev.html",
       "oF" : 0
     },
-    "\/Px437_TandyOld_TV.ttf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/Px437_TandyOld_TV.ttf",
-      "oF" : 0
-    },
     "\/random.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -124,9 +106,9 @@
       "eSQ" : 1,
       "ft" : 4096,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/README.html",
-      "oF" : 0,
+      "oF" : 1,
       "oFM" : 0,
       "oS" : 0,
       "pHT" : 0,
