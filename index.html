@@ -7,24 +7,40 @@
     <link rel="icon" type="image/png" href="/favicon.png" sizes="16x16" />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="stylesheet" href="/style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
     <script src="/sites.js"></script>
     <script src="/functions.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
+    <link rel="stylesheet" href="https://use.typekit.net/bkp6whf.css">
 </head>
 <body x-data="sites = getSites()">
-    <h1>Unoffice Hours Webring</h1>
-    <p>The web needs a little more weird. These sites are helping.</p>
-    <div class="list">
-        <template x-for="(site, index) in sites" :key="index">
-            <a class="box" :href="site.url + '?ref=unoffice-hours-webring'">
-                <span class="name" x-text="site.name"></span>
-            </a>
-        </template>
-    </div>
-    <p><a href="/join.html">Want to join?</a></p>
-    <a href="https://github.com/websmyth/unoffice-hours-webring">
-        <img class="github"  src="/github.gif" alt="Join the Weird Wide Webring on Github" height="100" width="100" />
-    </a>
+    <main class="wrapper">
+        <article>
+            <header>
+                <h1>Unoffice Hours</h1>
+                <p class="subhead">A webring for people offering Unoffice Hours.</p>
+                <div class="buttons">
+                    <a href="#people" class="button">People</a>
+                    <a href="#about" class="button buttonAlt">Join + About</a>
+                </div>
+            </header>
+            <section id="people">
+                <h2>People</h2>
+                <ul class="peopleList">
+                    <template x-for="(site, index) in sites" :key="index">
+                        <li><a class="box" :href="site.url + '?ref=unoffice-hours-webring'"><span class="name" x-text="site.name"></span>
+                        </a></li>
+                    </template>
+                </ul>
+            </section>
+            <section id="about" class="flow">
+                <h2>Join</h2>
+                <p>If you host an Unoffice Hours, you can join the webring.</p>
+                <p><a href="https://github.com/websmyth/unoffice-hours-webring" class="button">Instructions on Github &rarr;</a></p>
+                <h2>About</h2>
+                <p>Matt Webb <a href="https://interconnected.org/home/2020/09/24/unoffice_hours">created Unoffice Hours</a> as a twist on office hours in September 2020. There’s none of the student/teacher hierarchy of office hour‘s heritage.</p>
+                <p>This webring was launched in September 2021 to make it easier to find people offering Unoffice Hours. It’s maintained by <a href="https://davesmyth.com">Dave Smyth</a>.</p>
+            </section>
+        </article>
+    </main>
 </body>
 </html>
