@@ -33,3 +33,5 @@ You can retrieve a list of the webring links (next/previous/random/list/join) as
 ## Privacy
 
 We don't collect or store any information beyond the list of sites themselves. This is for fun, not for profit.
+
+_Thanks to Jack McDade for [the webring code](https://github.com/jackmcdade/weird-wide-webring). 🙏_
