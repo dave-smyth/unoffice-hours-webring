@@ -13,7 +13,7 @@ let sites = [
     },
     {
         name: "Matthew Knight",
-        url: 'https://thinkplaymake.co/unofficehours.html'
+        url: 'https://www.thinkplaymake.co/#unofficehours'
     }
 
 ]
