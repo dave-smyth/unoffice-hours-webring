@@ -34,4 +34,10 @@ You can retrieve a list of the webring links (next/previous/random/list/join) as
 
 We don't collect or store any information beyond the list of sites themselves. This is for fun, not for profit.
 
-_Thanks to Jack McDade for [the webring code](https://github.com/jackmcdade/weird-wide-webring). 🙏_
+## Credits
+
+Matt Webb created [Unoffice Hours](https://interconnected.org/home/2020/09/24/unoffice_hours) as a twist on office hours in September 2020.
+
+This webring was launched in September 2021 to make it easier to find people offering Unoffice Hours.
+
+Thanks to Jack McDade for [the webring code](https://github.com/jackmcdade/weird-wide-webring). 🙏
