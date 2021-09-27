@@ -9,7 +9,7 @@ let sites = [
     },
     {
         name: "Brian Suda",
-        url: 'https://suda.co.uk/contact#unoffice-hours'
+        url: 'https://suda.co.uk/contact/#unoffice-hours'
     }
 
 ]
