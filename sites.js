@@ -6,5 +6,10 @@ let sites = [
     {
         name: "Dave Smyth",
         url: 'https://davesmyth.com/unoffice-hours'
+    },
+    {
+        name: "Brian Suda",
+        url: 'https://suda.co.uk/contact/#unoffice-hours'
     }
+
 ]
