@@ -14,6 +14,9 @@ let sites = [
     {
         name: "Matthew Knight",
         url: 'https://www.thinkplaymake.co/#unofficehours'
+    },
+    {
+        name: "Joel Chippindale",
+        url: 'https://monkeysthumb.co.uk/unoffice-hours/'
     }
-
 ]
