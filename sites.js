@@ -38,5 +38,9 @@ let sites = [
     {
         name: "Adam Pearson",
         url: 'https://pearsoninsight.co.uk/contact'
+    },
+    {
+        name: "Erin Dalzell",
+        url: 'https://silentz.co/unoffice-hours'
     }
 ]
