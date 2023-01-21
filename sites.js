@@ -41,7 +41,7 @@ let sites = [
     },
     {
         name: "Erin Dalzell",
-        url: 'https://silentz.co/unoffice-hours'
+        url: 'https://silentz.co/post/unoffice-hours'
     },
     {
         name: "Laura Parker",
