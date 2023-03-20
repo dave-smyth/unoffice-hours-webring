@@ -29,7 +29,7 @@ let sites = [
     },
     {
         name: "Siobhan Solberg",
-        url: 'https://razemarketing.io/unoffice-hours'
+        url: 'https://siobhansolberg.com/unoffice-hours'
     },
     {
         name: "Eva Brarens",
