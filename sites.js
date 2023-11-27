@@ -54,9 +54,5 @@ let sites = [
     {
         name: "Tony Dang",
         url: 'https://tonydang.blog/unoffice-hours/'
-    },
-    {
-        name: "Andr de Almeida",
-        url: 'https://www.andrealmeida.co.uk/unoffice-hour'
     }
 ]
