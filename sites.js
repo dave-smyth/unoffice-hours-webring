@@ -58,5 +58,9 @@ let sites = [
     {
         name: "André de Almeida",
         url: 'https://www.andrealmeida.co.uk/unoffice-hour'
-    }
+    },
+    {
+        name: "Rishikesh Sreehari",
+        url: 'https://rishikeshs.com/unoffice-hours/'
+    } 
 ]
