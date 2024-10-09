@@ -62,5 +62,9 @@ let sites = [
     {
         name: "Rishikesh Sreehari",
         url: 'https://rishikeshs.com/unoffice-hours/'
-    } 
+    },
+    {
+        name: "Bernardo Vecchia Stein / Daniel Sidhion",
+        url: 'https://sidhion.com/blog/posts/unoffice_hours/'
+    }
 ]
