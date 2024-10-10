@@ -66,5 +66,9 @@ let sites = [
     {
         name: "Bernardo Vecchia Stein / Daniel Sidhion",
         url: 'https://sidhion.com/blog/posts/unoffice_hours/'
+    },
+    {
+        name: "Taliesyn",
+        url: 'https://www.johnwalker.nl/unoffice-hours'
     }
 ]
