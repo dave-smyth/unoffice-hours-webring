@@ -77,7 +77,7 @@ let sites = [
     },
     {
         name: "Michael Lai",
-        url: 'https://www.hanakami.art/unoffice-hours'
+        url: 'https://www.hanakami.art/misc/unoffice-hours'
     },
     {
         name: "Mi’Jan Celie Tho-Biaz",
