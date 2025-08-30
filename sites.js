@@ -94,5 +94,9 @@ let sites = [
     {
         name: "Nuno Donato",
         url: "https://www.nunodonato.com/unoffice-hours/"
+    },
+    {
+        name: "Greg Sadetsky",
+        url: "https://blog.greg.technology/2025/08/30/chat.html"
     }
 ]
