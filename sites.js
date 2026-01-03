@@ -100,7 +100,11 @@ let sites = [
         url: "https://blog.greg.technology/2025/08/30/chat.html"
     },
     {
-    name: "Javier Arce",
-    url: "https://javier.computer/unoffice-hours"
-  }
+        name: "Javier Arce",
+        url: "https://javier.computer/unoffice-hours"
+    },
+    {
+        name: "Matt Sephton",
+        url: "https://blog.gingerbeardman.com/unoffice-hours"
+    },
 ]
