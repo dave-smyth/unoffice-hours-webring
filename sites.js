@@ -28,10 +28,6 @@ let sites = [
         url: 'https://pearsoninsight.co.uk/contact'
     },
     {
-        name: "Erin Dalzell",
-        url: 'https://silentz.co/post/unoffice-hours'
-    },
-    {
         name: "Tony Dang",
         url: 'https://tonydang.blog/unoffice-hours/'
     },
@@ -50,10 +46,6 @@ let sites = [
     {
         name: "Taliesyn",
         url: 'https://www.johnwalker.nl/unoffice-hours'
-    },
-    {
-        name: "Kathryn Corrick & Frank Wales",
-        url: 'https://corrick.wales/unoffice-hours'
     },
     {
         name: "Bradley Gannon",
