@@ -99,4 +99,8 @@ let sites = [
         name: "Matt Sephton",
         url: "https://blog.gingerbeardman.com/unoffice-hours"
     },
+    {
+        name: "Jeff Wexler",
+        url: "https://linktr.ee/jefu_w"
+    },
 ]
