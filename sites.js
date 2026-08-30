@@ -103,4 +103,8 @@ let sites = [
         name: "Jeff Wexler",
         url: "https://linktr.ee/jefu_w"
     },
+    {
+        name: "Guide Fari",
+        url: "https://guidefari.com/unoffice-hours/"
+    },
 ]
