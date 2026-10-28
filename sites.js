@@ -107,4 +107,8 @@ let sites = [
         name: "Guide Fari",
         url: "https://guidefari.com/unoffice-hours/"
     },
+    {
+        name: "Vansh Kumar",
+        url: "https://vanshkumar.net/unoffice-hours"
+    },
 ]
